@@ -21,7 +21,7 @@ Proyecto en Python que permite leer un archivo PDF y contar:
 2. Ejecutar el archivo `.py`
 3. Seguir el menú en consola
 
-## 📂 Estructura
-
 ## 👤 Autor
 Juan Diego García
+11/01/2026 
+VERSION 1.0.0.0
